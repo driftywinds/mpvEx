@@ -150,3 +150,4 @@ If you find mpvExtended useful, consider supporting the development:
 [![UPI](https://img.shields.io/badge/UPI-aadiinarvekar@upi-blue?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=aadiinarvekar@upi)
 
 ---
+---
